@@ -4,7 +4,7 @@
 
 ## Data
 
-![1660971058117](readme.assets\1660971058117.png)[uniprot](https://www.uniprot.org/) ![1660971081384](\readme.assets\1660971081384.png)[GEO](https://www.ncbi.nlm.nih.gov/geo/)
+![1660971058117](readme.assets/1660971058117.png)[uniprot](https://www.uniprot.org/) ![1660971081384](readme.assets/1660971081384.png)[GEO](https://www.ncbi.nlm.nih.gov/geo/)
 
 ## Environment
 
